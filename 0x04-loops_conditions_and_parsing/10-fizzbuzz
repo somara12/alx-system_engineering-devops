@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 #!/usr/bin/env bash
 # Displays numbers from 1 to 100 in list format.
 #   Displays "FizzBuzz" when the number is a multiple of 3 and 5.
@@ -20,3 +23,4 @@ do
     echo "$num"
   fi
 done
+>>>>>>> 033e727474e5c63b4f83c3ba3e0932f4eac4699d
